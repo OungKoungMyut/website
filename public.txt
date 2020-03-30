@@ -1,0 +1,1 @@
+the public foler is kept in new repository called "public"
